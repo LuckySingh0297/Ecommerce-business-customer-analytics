@@ -164,7 +164,7 @@ ecommerce-business-customer-analytics/
 │   └── Project_1_Working.xlsx
 │
 ├── sql/
-│   └── your-existing-sql-script.sql
+│   └── Project_1_SQL_Analysis.sql.sql
 │
 ├── power-bi/
 │   └── Project_1_Ecommerce_Analytics.pbix
